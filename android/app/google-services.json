@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582614562445",
+    "project_id": "harmonic-hub-64943",
+    "storage_bucket": "harmonic-hub-64943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582614562445:android:923b699bc6a5d27f5094c4",
+        "android_client_info": {
+          "package_name": "com.example.harmonic_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582614562445-ldf19gm3rre9bfldtivco7aujt13lvnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbjceMZpbpmloC6yfjlZffKUSZ8leSKDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582614562445-ldf19gm3rre9bfldtivco7aujt13lvnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
